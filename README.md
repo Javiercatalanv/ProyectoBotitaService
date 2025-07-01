@@ -1,8 +1,5 @@
 # ProyectoBotitaService
 
-Aquí tienes una propuesta mejorada para tu README.md, incorporando lo que ya tenías y añadiendo el error con los métodos de entrega:
-
-⸻
 
 Botita’s Service
 
@@ -80,5 +77,3 @@ Error Conocido: Métodos de entrega
 En el último control de avance, los métodos de entrega (delivery y retiro) estaban funcionando correctamente, pero al agregar los últimos puntos y cambios, los métodos dejaron de funcionar. Actualmente, al intentar agregar un producto al carrito, el sistema no muestra correctamente las opciones de entrega disponibles para el producto. El problema está siendo investigado y se actualizará el sistema una vez se resuelva.
 
 ⸻
-
-Este README te da una visión general de lo que hace el sistema y cómo levantarlo en tu máquina local, además de resaltar el problema conocido con los métodos de entrega. ¿Te gustaría que lo ajuste de alguna forma o agregue más detalles sobre el error específico?
