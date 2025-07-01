@@ -1,0 +1,69 @@
+Link de Descarga:
+https://drive.google.com/file/d/18qcic_maJjlEM9WbHw5nr7vKuAk-WxpG/view?usp=sharing
+
+
+Botita's Service
+Este proyecto incluye un backend en NestJS y un frontend en React. Usa Docker para levantar la base de datos y está preparado para simular distintos roles de usuario.
+
+---
+
+Instrucciones para levantar el proyecto
+
+1. Clonar el repositorio
+
+```bash
+git clone https://github.com/tu-usuario/tu-repo.git
+cd tu-repo
+
+2. Levantar la base de datos con Docker
+Desde la raíz del proyecto, ejecutar:
+
+bash
+Copiar
+Editar
+docker compose up --build
+Esto levantará PostgreSQL y cualquier otro servicio definido en el archivo docker-compose.yml.
+
+3. Levantar el backend
+Desde la ruta:
+
+bash
+Copiar
+Editar
+cd BotitasBackendRial
+
+Ejecutar:
+
+bash
+Copiar
+Editar
+npm install
+npm run start
+
+4. Levantar el frontend
+Desde la ruta:
+
+bash
+Copiar
+Editar
+cd frontend
+Ejecutar:
+
+bash
+Copiar
+Editar
+npm install
+npm run start
+
+Credenciales de prueba:
+Puedes usar los siguientes usuarios para probar la aplicación según sus roles:
+
+Rol	Correo	Contraseña
+Seller	vale@gmail.com	123456
+Delivery	paaa@gmail.com	123456
+Admin	ken@gmail.com	123456
+Buyer	botitas@gmail.com	123456
+
+Notas:
+Asegúrate de tener instalado Node.js y Docker en tu máquina.
+Ejecuta npm install antes de iniciar tanto el frontend como el backend.
