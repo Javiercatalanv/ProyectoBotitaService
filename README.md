@@ -58,9 +58,13 @@ Credenciales de prueba
 Puedes usar los siguientes usuarios para probar la aplicación según sus roles:
 
 Rol	Correo	Contraseña
+
 Seller	vale@gmail.com	123456
+
 Delivery	paaa@gmail.com	123456
+
 Admin	ken@gmail.com	123456
+
 Buyer	botitas@gmail.com	123456
 
 
