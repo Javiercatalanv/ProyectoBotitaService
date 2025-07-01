@@ -9,7 +9,7 @@ Botita’s Service es un sistema de gestión para kioscos de venta, desarrollado
 
 Link de Descarga
 
-Enlace de descarga
+https://drive.google.com/file/d/18qcic_maJjlEM9WbHw5nr7vKuAk-WxpG/view?usp=sharing
 
 ⸻
 
